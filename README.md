@@ -269,20 +269,9 @@ Encapsulates campaign operations (Launch, Stop) as objects, enabling parameteriz
 
 ### Video Demonstration
 
-<!-- Option 1: YouTube Embed (Recommended) -->
-<!-- Replace YOUR_VIDEO_ID with your YouTube video ID -->
-<!-- Example: https://www.youtube.com/watch?v=YOUR_VIDEO_ID -->
-
 [![Video Demonstration](./demo/video-thumbnail.png)](https://player.vimeo.com/progressive_redirect/playback/1148036608/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&signature=a3d46f87d0addcbb6e3d8fb4b64f9e364087f3fb33332f9d5286fedcbf548e19)
 
-> **Note:** Save your video thumbnail image as `video-thumbnail.png` (or `.jpg`) in the `demo` folder. The image will serve as a clickable thumbnail linking to the video.
 
-
-## 📝 Notes
-
-- This is an educational project demonstrating design patterns in practice
-- The implementations are simplified for clarity and learning purposes
-- In a production environment, additional error handling, logging, and configuration management would be recommended
 
 ## 🤝 Contributing
 
