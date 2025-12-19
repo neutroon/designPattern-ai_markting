@@ -283,9 +283,3 @@ This is a demonstration project. Feel free to fork, modify, and experiment with 
 This project is provided as-is for educational purposes.
 
 ---
-
-<div align="center">
-
-[hesham.cc](https://hesham.cc)
-
-</div>
