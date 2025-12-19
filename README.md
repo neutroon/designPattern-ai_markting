@@ -277,11 +277,15 @@ Encapsulates campaign operations (Launch, Stop) as objects, enabling parameteriz
 
 This is a demonstration project. Feel free to fork, modify, and experiment with the code to understand how different design patterns work together.
 
+
 ## 📄 License
 
 This project is provided as-is for educational purposes.
 
 ---
 
-**Happy Learning! 🎓**
+<div align="center">
 
+[hesham.cc](https://hesham.cc)
+
+</div>
