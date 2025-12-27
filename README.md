@@ -271,6 +271,11 @@ Encapsulates campaign operations (Launch, Stop) as objects, enabling parameteriz
 
 [![Video Demonstration](./demo/video-thumbnail.png)](https://player.vimeo.com/progressive_redirect/playback/1148036608/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&signature=a3d46f87d0addcbb6e3d8fb4b64f9e364087f3fb33332f9d5286fedcbf548e19)
 
+### Presentation Demonstration
+
+
+[![Presentation Demonstration](./demo/video-thumbnail.png)](https://ecueg-my.sharepoint.com/:p:/g/personal/191900312_ecu_edu_eg/IQAvKho236SkSpRePTiObX7vAdY8efIbmXUAGi0YZZ-ZWYU?e=JDXSM6)
+
 
 
 ## 🤝 Contributing
